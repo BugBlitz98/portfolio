@@ -27,7 +27,7 @@ Create and Download Your own roadmap for free
 
 ## Get in Touch
 
-- **Website:** [animeshmanna.dev](https://animeshmanna.dev)
+- **Website:** [Animesh Manna](https://rb.gy/1pdpp5)
 - **LinkedIn:** [linkedin.com/in/animesh-manna-428633157](https://www.linkedin.com/in/animesh-manna-428633157)
 - **Twitter:** [@animesh68589159](https://x.com/Animesh68589159)
 - **Email:** [animeshmanna148@gmail.com](mailto:animeshmanna148@gmail.com)
