@@ -2,7 +2,7 @@
 
 Welcome to my GitHub portfolio! I'm Animesh Manna, a Senior Full-Stack Developer with a passion for turning visions into reality through code and design.
 
-![Portfolio Screenshot](./path-to-your-screenshot.png)
+![Portfolio Screenshot](https://portfolio-silk-alpha-42.vercel.app/images/projects/prtdark.png)
 
 ## About Me
 
@@ -34,7 +34,7 @@ Create and Download Your own roadmap for free
 
 ## Fun Fact
 
-![Gangnam Style](./path-to-your-image.png)
+![Gangnam Style](https://portfolio-silk-alpha-42.vercel.app/images/gangnam.png)
 
 Because coding doesn't have to be all serious, here's a little fun with Gangnam Style!
 
