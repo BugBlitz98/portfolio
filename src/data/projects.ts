@@ -63,7 +63,7 @@ export const PROJECTS_CARD: ProjectCardProps[] = [
       "/images/projects/roadmap.png"
     ],
     description:
-      "Keep track of projects and tasks in different categories. Drag and drop card from tables. Assign user and priority to task and many more features. This app is made using Reactjs, Typescript, Tailwindcss and React-beautiful-dnd library.",
+      "your go-to tool for designing and managing project roadmaps effortlessly. Whether you’re a project manager, team leader, or developer, our tool allows you to create, customize, and download roadmaps tailored to your needs—all for free",
     sourceCodeHref: "",
     liveWebsiteHref: "https://www.roadmap-creator.com/",
   },
