@@ -1,56 +1,49 @@
-# Portfolio
+# Animesh Manna - Senior Full-Stack Developer
 
-This portfolio is crafted using [Next.js](https://nextjs.org/)
+Welcome to my GitHub portfolio! I'm Animesh Manna, a Senior Full-Stack Developer with a passion for turning visions into reality through code and design.
 
-## 🖥️ Technologies Used
+![Portfolio Screenshot](./path-to-your-screenshot.png)
 
-- [Nextjs.js](https://nextjs.org/) : A React-based, open-source framework for building efficient and scalable web applications.
-- [Tailwind CSS](https://tailwindcss.com) : A utility-first CSS framework for rapid UI development.
-- [TypeScript](https://www.typescriptlang.org): A typed superset of JavaScript that provides enhanced tooling and developer productivity.
-- [Framer motion](https://www.framer.com/motion/): A React animation library that brings motion to your user interfaces.
-- [Nodemailer](https://nodemailer.com/): A Node.js library facilitating easy email integration with features like attachment handling, HTML content, and support for various email services.
+## About Me
 
-## 🌐 Open Source
+Hi, I'm Animesh Manna, and I specialize in creating dynamic, scalable web and mobile applications. With expertise in front-end, back-end, and hybrid mobile app development, I bring a comprehensive approach to every project I work on.
 
-Feel free to use it as a template for your own portfolio or any other projects. You are granted the freedom to modify, distribute, and use the code for any purpose, unleashing your creativity without any restrictions.
+## Technologies & Skills
 
-If you have any improvements, ideas or find any bugs, don't hesitate to submit a pull request or open an issue.
+- **Front-End:** HTML, CSS, JavaScript, React, Angular, Next.js
+- **Back-End:** Node.js, Express.js, Python, Django, Ruby on Rails
+- **Hybrid App Development:** React Native
+- **PHP Frameworks:** Laravel, CodeIgniter
+- **Database:** MySQL, MongoDB
+- **Tools & Platforms:** Git, Docker, AWS, Tailwind CSS
 
-## 🛑 Important Note
+## Projects
 
-1. **Do not push your Nodemailer pass on Github** as it can give access to your google email. Use `.env` file
-2. Use [Nextjs api routes](https://nextjs.org/docs/pages/building-your-application/routing/api-routes) for nodemailer transporters and send mail function as they only run on server and cannot expose your google app variables to client.
+### [JSON Viewer](https://jsonviewer.tools/)
+Visualize, compare, and customize JSON data as graphs, charts, and tables. Export insights easily with jsonviewer.tools. Perfect for developers
 
-## ✉️ Setup Nodemailer
+### [Roadmap Creator ](https://www.roadmap-creator.com/)
+Create and Download Your own roadmap for free
 
-### Create Nodemailer User and Password
+## Get in Touch
 
-1. Go to your Google Mail app or any other Google App.
-2. Click on your `Profile`
-3. Click on `Manage your Google Account`
-4. Go to `Security`
-5. Under `How you sign in Google` go to `2-Step Verification`
-6. Under `2-Step Verification` go to `App passwords`
-7. Create an app (e.g., portfolio-nodemailer), and copy the generated password securely. Use it as the value for the `NODEMAILER_PASS` variable and your email as the value for `NODEMAILER_USER` variable in `.env` file. [Note: Passwords are not visible once closed; if forgotten, delete the old app and create a new one.]
+- **Website:** [animeshmanna.dev](https://animeshmanna.dev)
+- **LinkedIn:** [linkedin.com/in/animesh-manna-428633157](https://www.linkedin.com/in/animesh-manna-428633157)
+- **Twitter:** [@animesh68589159](https://x.com/Animesh68589159)
+- **Email:** [animeshmanna148@gmail.com](mailto:animeshmanna148@gmail.com)
 
-### ✨ Seo
+## Fun Fact
 
-1. The project automatically generates sitemap.xml and robots.txt files within the public folder by leveraging the project's file structure. This process is initiated through the scripts located at src/scripts/generateSitemap.mjs, executed either after the project is built or by running the command `pnpm sitemap`.
-2. It's important to note that [dynamic routes](https://nextjs.org/docs/pages/building-your-application/routing/dynamic-routes), identified by file or folder names in square brackets (e.g., [segmentName], [id], or [slug]), are excluded from the sitemap.xml.
-3. To facilitate Google Search Console verification, you can insert the Google Site Verification tag content within the `src/data/siteMetadata.mjs` file.
+![Gangnam Style](./path-to-your-image.png)
 
-## 🛠️ Development setup
+Because coding doesn't have to be all serious, here's a little fun with Gangnam Style!
 
-### Step 1 - Install dependencies
+## Support My Work
 
-```bash
-pnpm install
-```
+If you like what I do and want to support my work, consider buying me a coffee!
 
-### Step 2 - Run the development server
+[![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/animeshmanna)
 
-```bash
-pnpm dev
-```
+## License
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the portfolio.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
