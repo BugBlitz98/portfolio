@@ -33,7 +33,7 @@ export const PROJECT_SHOWCASE: ProjectShowcaseListProps[] = [
     index: 2,
     title: "JSON to 3D graph",
     href: "/projects",
-    tags: ["html", "css", "Javascript"],
+    tags: ["tailwind css", "reactjs", "redux"],
     image: {
       LIGHT: "/images/projects/j2g.png",
       DARK: "/images/projects/j2g.png",
