@@ -25,18 +25,18 @@ export const PROJECT_SHOWCASE: ProjectShowcaseListProps[] = [
       "Vercel",
     ],
     image: {
-      LIGHT: "/images/projects/roadmap.png",
-      DARK: "/images/projects/roadmap.png",
+      LIGHT: "/images/projects/r1.png",
+      DARK: "/images/projects/r1.png",
     },
   },
   {
     index: 2,
-    title: "bug Blitz",
+    title: "JSON to 3D graph",
     href: "/projects",
     tags: ["html", "css", "Javascript"],
     image: {
-      LIGHT: "/images/projects/bugblitz.png",
-      DARK: "/images/projects/bugblitz.png",
+      LIGHT: "/images/projects/j2g.png",
+      DARK: "/images/projects/j2g.png",
     },
   },
 ];
@@ -68,11 +68,21 @@ export const PROJECTS_CARD: ProjectCardProps[] = [
     liveWebsiteHref: "https://www.roadmap-creator.com/",
   },
   {
+    name: "JSON 2 Graph",
+    favicon: "/images/projects/logos/favicon.ico",
+    imageUrl: [
+      "/images/projects/j2g.png"
+    ],
+    description:
+      "transfrom json to stunning 2d and 3d graph visualization with our json2graph tools",
+    sourceCodeHref: "",
+    liveWebsiteHref: "https://www.json2graph.com/",
+  },
+  {
     name: "My portfolio",
     favicon: "/favicon.ico",
     imageUrl: [
-      "/images/projects/portfolioDark.webp",
-      "/images/projects/portfolioLight.webp",
+      "/images/projects/prtdark.png"
     ],
     description:
       "My crazy personal portfolio website made using Nextjs, tailwindcss and framer motion.",
