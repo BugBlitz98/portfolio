@@ -17,7 +17,7 @@ Hi, I'm Animesh Manna, and I specialize in creating dynamic, scalable web and mo
 - **Database:** MySQL, MongoDB
 - **Tools & Platforms:** Git, Docker, AWS, Tailwind CSS
 
-## Projects
+## Personal Projects
 
 ### [JSON Viewer](https://jsonviewer.tools/)
 Visualize, compare, and customize JSON data as graphs, charts, and tables. Export insights easily with jsonviewer.tools. Perfect for developers
