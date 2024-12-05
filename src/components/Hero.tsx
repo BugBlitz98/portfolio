@@ -62,7 +62,7 @@ export default function Hero() {
           </AnimatePresence>
         </div>
       </div>
-      <div className="gangnamstyle"></div>
+     
     </motion.section>
   );
 }
