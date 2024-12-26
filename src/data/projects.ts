@@ -39,6 +39,7 @@ export const PROJECT_SHOWCASE: ProjectShowcaseListProps[] = [
       DARK: "/images/projects/j2g.png",
     },
   },
+  
 ];
 
 export const PROJECTS_CARD: ProjectCardProps[] = [
@@ -77,6 +78,17 @@ export const PROJECTS_CARD: ProjectCardProps[] = [
       "transfrom json to stunning 2d and 3d graph visualization with our json2graph tools",
     sourceCodeHref: "",
     liveWebsiteHref: "https://www.json2graph.com/",
+  },
+  {
+    name: "Aqua Alert Extension",
+    favicon: "/images/projects/logos/favicon.ico",
+    imageUrl: [
+      "/images/projects/aa.png"
+    ],
+    description:
+      "AquaAlert is your ultimate hydration companion, reminding you to drink water regularly throughout the day. Designed to be simple, lightweight, and effective, AquaAlert ensures you never forget to take a sip and stay refreshed.  ",
+    sourceCodeHref: "",
+    liveWebsiteHref: "https://chromewebstore.google.com/detail/aquaalert-daily-water-dri/gkikkiaboghknoljnignedmiiaeldmbg",
   },
   {
     name: "My portfolio",
