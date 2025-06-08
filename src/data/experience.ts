@@ -6,7 +6,7 @@ export const EXPERIENCE: TShowCaseListDetatils[] = [
     title: "Founder of",
     organisation: {
       name: "jsonviewer.tools",
-      href: "https://symlinktech.com/",
+      href: "https://jsonviewer.tools/",
     },
     date: "Apr 2024 - Present",
     location: "N/A",
