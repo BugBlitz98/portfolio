@@ -17,5 +17,5 @@ export const siteMetadata = {
   twitter: "https://x.com/Animesh68589159",
   linkedin: "https://www.linkedin.com/in/animesh-manna-428633157/",
   locale: "en-US",
-  googleSiteVerification: "",
+  googleSiteVerification: "usKZ1j5rlptn2SvX1ltvDFNHu9KCE3q-jAMwM9_EeAc",
 };
