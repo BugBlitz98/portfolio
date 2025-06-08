@@ -1,6 +1,17 @@
 import { TShowCaseListDetatils } from "@/components/ShowCaseList";
 
 export const EXPERIENCE: TShowCaseListDetatils[] = [
+
+  {
+    title: "Founder of",
+    organisation: {
+      name: "jsonviewer.tools",
+      href: "https://symlinktech.com/",
+    },
+    date: "Apr 2024 - Present",
+    location: "N/A",
+    description: "As the founder of jsonviewer.tools, I, Animesh Manna, leveraged my full-stack development expertise to build an intuitive platform for visualizing JSON data in tree, graph, and table formats. I led the design, development, and deployment of the tool with a focus on performance, interactivity, and user experience, helping developers better understand and debug complex JSON structures.",
+  },
   {
     title: "React Native Developer",
     organisation: {

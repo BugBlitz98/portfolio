@@ -124,7 +124,7 @@ export default function Navbar(props: TNavbar) {
                   <ThemeSwitch setClose={setIsModalOpen} />
                 </div>
                 
-                <div className="absolute bottom-0 py-6">©2023 Animesh Manna</div>
+                <div className="absolute bottom-0 py-6">©2025 Animesh Manna</div>
               </Dialog.Panel>
             </Transition.Child>
           </div>

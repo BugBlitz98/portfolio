@@ -19,8 +19,8 @@ export default function Home() {
         className="pointer-events-none fixed inset-0 -z-10 h-full w-full"
       />
       <NextSeo
-        title="Animesh Manna | React Native and Backend Developer"
-        description="Explore the professional portfolio of Animesh Manna, a skilled React and Backend Developer with 2 years of hands-on experience. Discover innovative projects, expertise in modern web technologies, and a passion for creating seamless user experiences."
+        title="Animesh Manna – Full-Stack Developer | React, Node.js, and Web App Specialist"
+        description="Discover the portfolio of Animesh Manna, a talented Full-Stack Developer with 8+ years of experience in building modern web applications using React, Node.js, and backend technologies. Explore innovative projects, performance-driven solutions, and a passion for user-centric development."
         canonical={siteMetadata.siteUrl}
         openGraph={{
           url: siteMetadata.siteUrl,
