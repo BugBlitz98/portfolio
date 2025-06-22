@@ -11,10 +11,10 @@ Hi, I'm Animesh Manna, and I specialize in creating dynamic, scalable web and mo
 ## Technologies & Skills
 
 - **Front-End:** HTML, CSS, JavaScript, React, Angular, Next.js
-- **Back-End:** Node.js, Express.js, Python, Django, Ruby on Rails
+- **Back-End:** Node.js, Express.js,Bun,Deno, Python, Django, Ruby on Rails,
 - **Hybrid App Development:** React Native
 - **PHP Frameworks:** Laravel, CodeIgniter
-- **Database:** MySQL, MongoDB
+- **Database:** MySQL, MongoDB,PostgreSQL
 - **Tools & Platforms:** Git, Docker, AWS, Tailwind CSS
 
 ## Personal Projects
